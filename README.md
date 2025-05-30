@@ -10,7 +10,6 @@ Ingeniero en electrónica con formación sólida en matemáticas, lógica y prog
 
   [![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafael-raya-tapia-81a736210/)
 
-  ![](https://komarev.com/ghpvc/?username=JorgCaceres&color=blueviolet&style=flat-square)
 </div>
 
 ---
@@ -30,7 +29,7 @@ Apasionado por la tecnología, la electrónica y el análisis de datos, con una 
 ### :hammer_and_wrench: Lenguajes y herramientas :
 <div id="header" align="left">
 
-[![My Skills](https://skillicons.dev/icons?i=py,verilog,sql,matlab,git,linux,postman,html,css,js,vscode,figma)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py,arduino,sql,c,cpp,git,github,linux,matlab,mysql,stackoverflow,vscode)](https://skillicons.dev)
 
 </div>
 
