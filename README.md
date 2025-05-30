@@ -6,7 +6,7 @@ Ingeniero en electrónica con formación sólida en matemáticas, lógica y prog
 👯 Busco colaborar en proyectos que integren inteligencia artificial, machine learning y desarrollo de sistemas electrónicos, especialmente en el área de sistemas embebidos y diseño digital orientado a la toma de decisiones basada en datos.
 
 <div id="header" align="center">
-  <img decoding="async" src="https://github.com/JorgCaceres/JorgCaceres/blob/main/Navy%20Blue%20Geometric%20Technology%20LinkedIn%20Banner.png" width="800"/>
+  <img decoding="async" src="https://github.com/xDechicero/xDechicero/blob/master/baner.png" width="800"/>
 
   [![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafael-raya-tapia-81a736210/)
 
