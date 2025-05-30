@@ -29,7 +29,7 @@ Apasionado por la tecnología, la electrónica y el análisis de datos, con una 
 ### :hammer_and_wrench: Lenguajes y herramientas :
 <div id="header" align="left">
 
-[![My Skills](https://skillicons.dev/icons?i=py,arduino,sql,c,cpp,git,github,linux,matlab,mysql,stackoverflow,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=arduino,c,cpp,linux,matlab,py,git,github,mysql,stackoverflow,sklearn,tensorflow,vscode)](https://skillicons.dev)
 
 </div>
 
