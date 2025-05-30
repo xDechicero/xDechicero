@@ -24,7 +24,7 @@ Apasionado por la tecnología, la electrónica y el análisis de datos, con una 
 * :mailbox: ¿Quieres contactar conmigo?-> [![Linkedin Badge](https://img.shields.io/badge/-Rafael-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/rafael-raya-tapia-81a736210/)
 
 
----
+
 
 ### :hammer_and_wrench: Lenguajes y herramientas :
 <div id="header" align="left">
@@ -33,5 +33,5 @@ Apasionado por la tecnología, la electrónica y el análisis de datos, con una 
 
 </div>
 
----
+
 
