@@ -21,7 +21,7 @@ Apasionado por la tecnología, la electrónica y el análisis de datos, con una 
 * :seedling: Con experiencia práctica en Python, SQL, Verilog, análisis de señales y procesamiento de datos.
 * :heartbeat: Me motiva aplicar la lógica de programación y el análisis cuantitativo para resolver problemas complejos de forma creativa e innovadora.
 
-* :mailbox: ¿Quieres contactar conmigo? [![Linkedin Badge](https://img.shields.io/badge/-Jorge-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/rafael-raya-tapia-81a736210/)
+* :mailbox: ¿Quieres contactar conmigo?-> [![Linkedin Badge](https://img.shields.io/badge/-Rafael-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/rafael-raya-tapia-81a736210/)
 
 
 ---
@@ -35,18 +35,3 @@ Apasionado por la tecnología, la electrónica y el análisis de datos, con una 
 
 ---
 
-### :fire: Mis estadísticas:
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=JorgCaceres&theme=dark&background=000000)](https://git.io/streak-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JorgCaceres&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-
-   [![My Skills](https://skillicons.dev/icons?i=py,postman,java,postgres,github,unreal,angular,nodejs,js,html,css)](https://skillicons.dev)
-
-</div>
-
----
-
-### :fire: Mis estadísticas:
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=JorgCaceres&theme=dark&background=000000)](https://git.io/streak-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JorgCaceres&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
