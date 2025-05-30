@@ -8,7 +8,7 @@ Ingeniero en electrónica con formación sólida en matemáticas, lógica y prog
 <div id="header" align="center">
   <img decoding="async" src="https://github.com/JorgCaceres/JorgCaceres/blob/main/Navy%20Blue%20Geometric%20Technology%20LinkedIn%20Banner.png" width="800"/>
 
-  [![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/noelianav/)
+  [![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rafael-raya-tapia-81a736210/)
 
   ![](https://komarev.com/ghpvc/?username=JorgCaceres&color=blueviolet&style=flat-square)
 </div>
@@ -22,9 +22,8 @@ Apasionado por la tecnología, la electrónica y el análisis de datos, con una 
 * :seedling: Con experiencia práctica en Python, SQL, Verilog, análisis de señales y procesamiento de datos.
 * :heartbeat: Me motiva aplicar la lógica de programación y el análisis cuantitativo para resolver problemas complejos de forma creativa e innovadora.
 
-* :mailbox: ¿Quieres contactar conmigo? [![Linkedin Badge](https://img.shields.io/badge/-Jorge-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/jrgcg/)
-* :e-mail: jorge.caceresgarcia@gmail.com
-* :iphone: +569 4208 4090
+* :mailbox: ¿Quieres contactar conmigo? [![Linkedin Badge](https://img.shields.io/badge/-Jorge-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/rafael-raya-tapia-81a736210/)
+
 
 ---
 
